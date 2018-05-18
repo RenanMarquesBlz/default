@@ -1,3 +1,4 @@
 git config --global ( Mais sintaxe, edita permissões e configurações à nivel global, todos arquivos criados receberão as permissões nesta opção)
 git config --local (edita permissões do arquivo local)
 git checkout commitid ou master (volta para o arquivo especificado por commitid, o master volta para estado atual do arquivo)
+git pull - (atualiza localmente os  arquivos do github)
