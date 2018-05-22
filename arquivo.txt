@@ -12,3 +12,6 @@ Na realidade, nós estamos falando de ponteiros avançando na linha de commits q
 =======
 git pull - (atualiza localmente os  arquivos do github)
 >>>>>>> a702c1da8624bd55000a6f05e791ab40fc36ed2f
+git branch - (cria uma nova "linha do tempo" para realizar commits alternativos sem prejudicar a linha que esta em funcionamento)
+git checkout ( alterna entre as branches para realizar os commits)
+
